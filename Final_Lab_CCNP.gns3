@@ -256,8 +256,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 27,
-                            "y": -10
+                            "x": 46,
+                            "y": -43
                         },
                         "node_id": "06907fde-4e00-428f-ad14-88b560fb8f6c",
                         "port_number": 0
@@ -569,8 +569,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -302,
-                "y": 132,
+                "x": -339,
+                "y": 138,
                 "z": 1
             }
         ]
